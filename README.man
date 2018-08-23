@@ -1,0 +1,4 @@
+# Andrew Boilerplate
+
+## Origin
+This boilerplate is in a large part a copy of the HTML5 boilerplate (https://github.com/h5bp/html5-boilerplate) with miner alterations which idividualize the main file. Also any further alterations will be concentrated here
